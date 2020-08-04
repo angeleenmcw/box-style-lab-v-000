@@ -75,3 +75,7 @@ box-shadow: inset -5px -5px 5px #888;
 img {
   border: 10px Solid #555;
 }
+
+#grad {
+  background-image: linear-gradient(red, yellow, blue);
+}
